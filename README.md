@@ -1,4 +1,5 @@
-﴿ بسم الله الرحمن الرحيم ﴾
+
+<h1 align="center"> بسم الله الرحمن الرحيم </h1>
 
 <h1 align="center">Ibrahim Malik</h1>
 <p align="center">Machine Learning • Neuro-Symbolic AI • Full-Stack Engineering</p>
@@ -15,11 +16,11 @@
 
 Computer Science student (Honors, 3.95 GPA) focused on:
 
-- Machine Learning for medical imaging and clinical decision support
-- Neuro-Symbolic reasoning and interpretability in LLMs
-- Full-stack engineering for real operational systems
+- Machine learning for clinical diagnostics and medical imaging
+- Neuro-Symbolic reasoning and interpretability in large language models
+- Real-world full-stack engineering and distributed systems design
 
-My approach is grounded in clarity, discipline, and intentional design — both in research and in software.
+I value clarity, rigor, and meaningful work grounded in service and purpose.
 
 > Understanding is deeper than accuracy.
 
@@ -28,42 +29,24 @@ My approach is grounded in clarity, discipline, and intentional design — both 
 ### Current Work
 
 **St. Jude Children’s Research Hospital — Machine Learning Research**  
-Developing CNN and 3D CNN models for pediatric brain tumor classification using MRI segmentation and clinician-evaluated datasets.
+Developing CNN and 3D CNN tumor classification models from MRI segmentation workflows in pediatric neuro-oncology.
 
 **Neuro-Symbolic AI Lab — Research Assistant**  
-Investigating reasoning behavior and failure points in large language models (GSM8K).
+Analyzing reasoning pathways and structural failure modes in LLMs on GSM8K arithmetic tasks.
 
-**AutoZone — Full-Stack Engineering (2025)**  
-Built real-time device monitoring and GraphRAG-based natural-language operational insights.
+**AutoZone — Software Engineering (2025)**  
+Full-stack development of real-time operational dashboards and GraphRAG-based query reasoning systems.
 
 ——— • ——— • ——— • ——— • ———
 
 ### Tech Stack
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-1f1f1f?style=flat&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-1f1f1f?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-1f1f1f?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1f1f1f?style=flat&logo=postgresql&logoColor=white"/>
-</p>
-
-#### Machine Learning / Research
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-1f1f1f?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-1f1f1f?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-1f1f1f?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-1f1f1f?style=flat&logo=jupyter&logoColor=white"/>
-</p>
-
-#### Web / Systems
-<p>
-  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-1f1f1f?style=flat&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,opencv,jupyter" height="40"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,rails,postgres,git" height="40"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,r,ruby,html,css" height="40"/>
 </p>
 
 ——— • ——— • ——— • ——— • ———
@@ -72,11 +55,11 @@ Built real-time device monitoring and GraphRAG-based natural-language operationa
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Brain Tumor MRI Classifier** | Deep learning pipelines for MRI tumor classification | PyTorch, Python |
-| **LLM Reasoning Evaluation** | Behavior analysis and failure segmentation on GSM8K | Python |
-| **Student Performance Prediction** | GCN and FFNN prediction + feature interpretation | PyTorch |
-| **Film Festival App** | Web app with real-time query UI | Ruby on Rails, JavaScript |
-| **Image Processing Toolkit** | Convolution-based feature extraction | OpenCV, NumPy |
+| **Brain Tumor MRI Classifier** | CNN and 3D CNN tumor classification pipeline with segmentation alignment | PyTorch, Python |
+| **LLM Reasoning Behavior Analysis** | Evaluating reasoning structure and mistake patterns in GSM8K | Python, Research Analysis |
+| **Student Performance Prediction (GCN)** | Graph-based student outcome modeling + feature interpretation | PyTorch |
+| **Film Festival Management System** | Web application with real-time query search and clean interface design | Ruby on Rails, JavaScript |
+| **Image Kernel Processing Toolkit** | Convolution & filter operations for edge detection, sharpening, and smoothing | OpenCV, NumPy |
 
 ——— • ——— • ——— • ——— • ———
 
@@ -89,4 +72,4 @@ Built real-time device monitoring and GraphRAG-based natural-language operationa
 
 ——— • ——— • ——— • ——— • ———
 
-<p align="center"><i>“Knowledge becomes light when it transforms character.”</i></p>
+<p align="center"><i>“Knowledge becomes light when it reshapes your character.”</i></p>
