@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ibrahim Malik! 🫡🫡
+# Ibrahim Malik 🫡🫡
 
 ### AI/ML Researcher | Student @ UofM 
 
@@ -66,6 +66,3 @@ My current work focuses on leveraging deep learning for pediatric tumor classifi
 
 ---
 
-<div align="center">
-[cite_start]<i>Outside of coding, I run <b>Ibrahim's RideRevival</b>, restoring bikes for the Memphis community[cite: 34, 36]. 🚲</i>
-</div>
