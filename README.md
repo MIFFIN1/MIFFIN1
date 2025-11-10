@@ -1,79 +1,92 @@
 ﴿ بسم الله الرحمن الرحيم ﴾
 
 <h1 align="center">Ibrahim Malik</h1>
-<p align="center">
-  Machine Learning • Neuro-Symbolic AI • Full-Stack Engineering
-</p>
+<p align="center">Machine Learning • Neuro-Symbolic AI • Full-Stack Engineering</p>
 
 <p align="center">
-  <a href="https://github.com/MIFFIN1">GitHub</a> •
+  <a href="mailto:901ibrahimmalik@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/901ibrahimmalik/">LinkedIn</a> •
-  <a href="mailto:901ibrahimmalik@gmail.com">Email</a>
+  <a href="https://github.com/MIFFIN1">GitHub</a>
 </p>
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+——— • ——— • ——— • ——— • ———
 
-### About Me
+### Profile
 
-I am a Computer Science student at the University of Memphis (Honors, 3.95 GPA) studying the intersection of:
+Computer Science student (Honors, 3.95 GPA) focused on:
 
-- **Machine Learning for Healthcare**
-- **Neuro-Symbolic & Explainable AI**
-- **Full-Stack Development for real-world systems**
+- Machine Learning for medical imaging and clinical decision support
+- Neuro-Symbolic reasoning and interpretability in LLMs
+- Full-stack engineering for real operational systems
 
-I care about systems that are **intelligent, interpretable, and meaningful** — tools that help people, not replace them.
+My approach is grounded in clarity, discipline, and intentional design — both in research and in software.
 
-> “Knowledge is not what you memorize — it is what changes you.”
+> Understanding is deeper than accuracy.
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+——— • ——— • ——— • ——— • ———
 
 ### Current Work
 
-**Machine Learning Research — St. Jude Children’s Research Hospital**  
-Developing CNN & 3D CNN models for classifying pediatric brain tumors using MRI imaging.
+**St. Jude Children’s Research Hospital — Machine Learning Research**  
+Developing CNN and 3D CNN models for pediatric brain tumor classification using MRI segmentation and clinician-evaluated datasets.
 
-**Neuro-Symbolic AI Research — University of Memphis**  
-Studying reasoning patterns in LLMs on GSM8K to understand how models solve multi-step logic.
+**Neuro-Symbolic AI Lab — Research Assistant**  
+Investigating reasoning behavior and failure points in large language models (GSM8K).
 
-**Full-Stack Engineering — AutoZone (2025)**  
-Built real-time monitoring dashboards and integrated natural language reasoning interfaces (GraphRAG + Cypher + Node.js).
+**AutoZone — Full-Stack Engineering (2025)**  
+Built real-time device monitoring and GraphRAG-based natural-language operational insights.
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+——— • ——— • ——— • ——— • ———
 
-### Skills
+### Tech Stack
 
-**Languages:** Python, Cypher, SQL, JavaScript, Ruby, C, C++, R  
-**Frameworks / Tools:** PyTorch, OpenCV, Node.js, Ruby on Rails, Conda, HPC, PostgreSQL, Jupyter
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-1f1f1f?style=flat&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-1f1f1f?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-1f1f1f?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-1f1f1f?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+#### Machine Learning / Research
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1f1f1f?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-1f1f1f?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-1f1f1f?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-1f1f1f?style=flat&logo=jupyter&logoColor=white"/>
+</p>
+
+#### Web / Systems
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-1f1f1f?style=flat&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white"/>
+</p>
+
+——— • ——— • ——— • ——— • ———
 
 ### Projects
 
-| Project | Focus | Technologies |
-|--------|-------|--------------|
-| **Brain Tumor MRI Classifier** | Medical deep learning & clinical collaboration | Python, PyTorch |
-| **Neuro-Symbolic Reasoning Eval** | Understanding model reasoning failures | Python |
-| **Student Performance Prediction** | Graph-based modeling of academic outcomes | PyTorch |
-| **Film Festival Web App** | Real-time UI and clean Ruby on Rails architecture | Ruby, JS |
-| **Image Kernel Lab** | Custom convolution filters & maps | OpenCV, NumPy |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Brain Tumor MRI Classifier** | Deep learning pipelines for MRI tumor classification | PyTorch, Python |
+| **LLM Reasoning Evaluation** | Behavior analysis and failure segmentation on GSM8K | Python |
+| **Student Performance Prediction** | GCN and FFNN prediction + feature interpretation | PyTorch |
+| **Film Festival App** | Web app with real-time query UI | Ruby on Rails, JavaScript |
+| **Image Processing Toolkit** | Convolution-based feature extraction | OpenCV, NumPy |
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+——— • ——— • ——— • ——— • ———
 
-### GitHub Stats
+### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIFFIN1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=5a4638&text_color=3f332a&icon_color=7a5c46" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIFFIN1&hide_border=true&stroke=3f332a&ring=7a5c46&fire=c2a878&currStreakLabel=5a4638&sideNums=3f332a&sideLabels=5a4638&dates=6b5e54&background=FFFFFF00" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=MIFFIN1&show_icons=true&hide_border=true&theme=transparent" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIFFIN1&hide_border=true&theme=transparent" height="160">
 </p>
 
-──────── ⋅ʚ♡ɞ⋅ ────────
+——— • ——— • ——— • ——— • ———
 
-###� Beyond Tech
-
-- Founder of **RideRevival** — restoring bicycles for the Memphis community  
-- Instructor at **Iqra Education Center**  
-- Former **Assistant Patrol Leader**, Boy Scouts (leadership, service, discipline)
-
-──────── ⋅ʚ♡ɞ⋅ ────────
-
-<p align="center"><i>“To seek knowledge is a lifelong worship.”</i></p>
+<p align="center"><i>“Knowledge becomes light when it transforms character.”</i></p>
