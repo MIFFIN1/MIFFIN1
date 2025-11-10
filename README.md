@@ -1,7 +1,7 @@
 
 <h1 align="center"> بسم الله الرحمن الرحيم </h1>
 
-<h1 align="center">Ibrahim Malik</h1>
+<h1 align="center">Ibrahim Malik 🫡🫡</h1>
 <p align="center">Machine Learning • Neuro-Symbolic AI • Full-Stack Engineering</p>
 
 <p align="center">
