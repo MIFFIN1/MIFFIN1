@@ -1,68 +1,98 @@
-<div align="center">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bismillah_kufi.svg" width="250" alt="Bismillah in Kufic Calligraphy">
+</p>
 
-# Ibrahim Malik 🫡🫡
+<h1 align="center">Ibrahim Malik</h1>
+<p align="center">
+  Machine Learning • Neuro-Symbolic AI • Full-Stack Development
+</p>
 
-### AI/ML Researcher | Student @ UofM 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/901ibrahimmalik/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:901ibrahimmalik@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/901ibrahimmalik/">LinkedIn</a> •
+  <a href="https://github.com/MIFFIN1">GitHub</a> •
+  <a href="mailto:901ibrahimmalik@gmail.com">Email</a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Islamic_star_pattern.svg" width="90">
+</p>
 
 ### About Me
 
-I am a **Computer Science** student pursuing my BS ('26) at the University of Memphis, specializing in **Machine Learning, AI, and Cyber Security**. I am currently looking for and applying for both summer internships, full-time offers, and grad school opportunities.
+I'm a Computer Science student at the University of Memphis (Honors, 3.95 GPA) passionate about the intersection of:
 
-My current work focuses on leveraging deep learning for pediatric tumor classification at **St. Jude Children's Research Hospital** and exploring Neuro-Symbolic AI reasoning.
+- **Machine Learning for Healthcare**
+- **Neuro-Symbolic & Explainable AI**
+- **Full-Stack Engineering for real-world systems**
 
----
+My work bridges **research and application** — building models, designing systems, and trying to deeply understand *how* intelligent systems reason.
 
-### Technologies & Tools
-
-**Core Languages**
-<br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-
-**AI / ML / Data Engineering**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/neo4j-%23008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j (Cypher)"/>
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-**Dev Tools & Environment**
-<br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/HPC"/>
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+> *"Knowledge is a trust. Understanding is worship."*
 
 ---
 
-### Featured Experience
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Islamic_star_pattern.svg" width="90">
+</p>
 
-| Role | Organization | Focus |
-| :--- | :--- | :--- |
-| **ML Research Intern** | St. Jude Children's Research Hospital | Building Neural Networks for MRI brain tumor classification as well as radiomics based classification. |
-| **Research Assistant** | University of Memphis | Evaluating LLM reasoning via Neuro-Symbolic AI on the GSM8K dataset. |
-| **Full Stack Intern** | AutoZone | Developed intelligence portals using GraphRAG, Node.js, and Cypher. |
+### Current Work
+
+**Machine Learning Research — St. Jude Children’s Research Hospital**  
+Developing deep learning models for pediatric brain tumor classification using MRI imaging  
+(CNNs, 3D CNNs, segmentation workflows, clinician collaboration)
+
+**Neuro-Symbolic AI Research — University of Memphis**  
+Studying *how* large language models reason (or fail to) on arithmetic & logic tasks (GSM8K dataset)
+
+**Full-Stack Engineering — AutoZone (2025)**  
+Built real-time device monitoring dashboards & integrated GraphRAG-based natural language interfaces
 
 ---
 
-### Top Projects
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Islamic_star_pattern.svg" width="90">
+</p>
 
-- **Student Success Prediction:** Applied Graph Convolutional Networks (GCN) to educational datasets to predict outcomes.
-- **Film Festival Manager:** A full-stack Ruby on Rails application with real-time JS filtering and PostgreSQL.
-- **Image Processing Engine:** Custom Python implementation of edge detection and blurring using standard kernels.
+### Skills & Tools
+
+**Languages:** Python, Cypher, SQL, JavaScript, Ruby, C, C++, R  
+**Frameworks:** PyTorch, OpenCV, Node.js, Ruby on Rails  
+**Other:** Git, HPC environments, PostgreSQL, Conda, Jupyter  
 
 ---
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Islamic_star_pattern.svg" width="90">
+</p>
+
+### Selected Projects
+
+| Project | Focus | Technologies |
+|--------|-------|--------------|
+| **Brain Tumor MRI Classifier** | Deep learning for medical imaging | Python, PyTorch |
+| **Neuro-Symbolic Reasoning Eval** | LLM reasoning & interpretability | Python, Research tooling |
+| **Student Performance Prediction** | GCN + feature analysis on academic data | PyTorch |
+| **Film Festival App** | Elegant web app + live search UI | Ruby on Rails, JS |
+| **Image Processing Toolkit** | Custom convolution filters & feature maps | OpenCV, NumPy |
+
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Islamic_star_pattern.svg" width="90">
+</p>
+
+###  Beyond Tech
+
+- Book binder
+- Soccer player
+- History lover
+
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bismillah_kufi.svg" width="150">
+</p>
+
+<p align="center"><i>"To seek knowledge is a lifelong worship."</i></p>
