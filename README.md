@@ -20,10 +20,6 @@ Computer Science student (Honors, 3.95 GPA) focused on:
 - Neuro-Symbolic reasoning and interpretability in large language models
 - Real-world full-stack engineering and distributed systems design
 
-I value clarity, rigor, and meaningful work grounded in service and purpose.
-
-> Understanding is deeper than accuracy.
-
 ——— • ——— • ——— • ——— • ———
 
 ### Current Work
@@ -61,15 +57,5 @@ Full-stack development of real-time operational dashboards and GraphRAG-based qu
 | **Film Festival Management System** | Web application with real-time query search and clean interface design | Ruby on Rails, JavaScript |
 | **Image Kernel Processing Toolkit** | Convolution & filter operations for edge detection, sharpening, and smoothing | OpenCV, NumPy |
 
-——— • ——— • ——— • ——— • ———
-
-### GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIFFIN1&show_icons=true&hide_border=true&theme=transparent" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIFFIN1&hide_border=true&theme=transparent" height="160">
-</p>
 
 ——— • ——— • ——— • ——— • ———
-
-<p align="center"><i>“Knowledge becomes light when it reshapes your character.”</i></p>
